@@ -1,3 +1,3 @@
 # annotated-papers
 
-Annotated research papers along with some observations.
+Annotated versions of research papers I've read.
